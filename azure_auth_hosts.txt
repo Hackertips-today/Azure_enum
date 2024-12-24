@@ -1,0 +1,10 @@
+Link: <https://logincdn.msauth.net>; rel=preconnect; crossorigin
+Link: <https://acctcdn.msauth.net>; rel=preconnect; crossorigin
+Link: <https://acctcdn.msauth.net/>; rel=dns-prefetch
+Link: <https://acctcdnmsftuswe2.azureedge.net/>; rel=dns-prefetch
+Link: <https://acctcdnvzeuno.azureedge.net/>; rel=dns-prefetch
+Link: <https://logincdn.msauth.net/>; rel=dns-prefetch
+Link: <https://lgincdnvzeuno.azureedge.net/>; rel=dns-prefetch
+Link: <https://lgincdnmsftuswe2.azureedge.net/>; rel=dns-prefetch
+
+These related to authentication
