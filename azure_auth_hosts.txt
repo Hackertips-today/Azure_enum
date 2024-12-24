@@ -8,3 +8,25 @@ Link: <https://lgincdnvzeuno.azureedge.net/>; rel=dns-prefetch
 Link: <https://lgincdnmsftuswe2.azureedge.net/>; rel=dns-prefetch
 
 These related to authentication
+
+
+Request: 
+GET /oauth20_authorize.srf?scope=openid+profile+email+offline_access&response_type=code&client_id=51483342-085c-4d86-bf88-cf50c7252078&response_mode=form_post&redirect_uri=https%3a%2f%2flogin.microsoftonline.com%2fcommon%2ffederation%2foauth2msa&state=rQQIARAAjZNNaCNlGMczTZs27a4Ni0i9FS0i6iTvzLyTSQrFTZqmaZKZJG0mXwhhvvOmmXmnM28mbVhkEQWPi8cFERQPVtHFw7K7J0-uVJS9KgjLwoL04MeeFkV0WtmLIOzluTz_9_k_D7_3vzgvJPkkSIJXomwSrK9pEKoQZDiaU1VAw6zG0CoUdDorQIPnNFU3Oa0c4wEDOeBdWky8P7n1xu8vXq0dX90jm3fX_OtUvD9CgZHUsH1MvTQgxPXXUykXe0QZJZXp2DtvpXxkOchJIUc3DlO3KOoeRf1MUe_NPO8bHsJo7CPHxL6hXbZsBY3Op834aS4jAJgVBB4IIAvCFZI9uzWqtcsjsS0Sabprd_cA6E67sNocoVpBJr2CxkoFCdW2u6xol1GoQVK7AbtDMeztolqoF9tbh9WmBSRWJuL2zqTWlAZiU2bEoQx_nFmu5cZkwJ4V7KGp8WgmbmLP7rvYJ9ejf1E113B29E3sOIZGkmcywyFIUwjCTt3DruERZPgbZhUcDPW-63pKmh-p2WCoB-TAgu60Ifl9olcUxoNowMmbhcEeadQsVy6gfKuDpr2Sa_T4YDqEpXFFOphowf5mP5AZczoysuKQ08Xd5jYooj3OHe8YfmFcx9W23SkqllpU2GCrdSTpooxMS5vwIm1Vum7jqGV2VKHC8WUr3ZPTGB6Aw33a1NJst9IxA4xy3GRYKhOWlCZChZ-Uc_2dQZseWM2KahV5vyg29zO5XKdxHF17gthWHMUy7PD4kFZIeRKyxRM_6Rgk9WV07T9c_8WKHRtpHvaxefbIvhNd4xmo6YoKaUEAHA01jqEVVlFoBvAqz6YFIaubJ9Hq05imxqFnH9khAR875zxWQxwO0leNM_dV18MmGhkPov__6e7NUqezzy3MJ-ZWIquRl58Fc-sLC4uJ5ZX51cjjWerDuTACf3z-0Rd_Poxc_mDl7cabn6iRk7lU0LVkwG0F9fbhPgNKqUArkLrarje4lrCVy7d7rx6xnJLTW2m8kVlnrsWoa7HYSSy-U-hLW00osL_FqHfnqTvxpwzQg6Vwj8_-vnt0Rft082Zw5eF94-avp0sJAAAHAWCEbDbPAp5_tLTwJJxvXbi4ELkUj3_3zuvz377wU-nGBeqri5HHz3z98fe3b_zwzS-l0-XXClUb5iVSPCyP5XRmN50Z5FNNWJ3kuwewyeKgM87tHtUDUgXdjRuJyP1E5B81&login_hint=<username>%40gmail.com&estsfed=1&uaid=5cb8779d23f14f80aa80537443c72473&cobrandid=ed5d1924-9524-4e70-8f68-5ee5e35afbef&fci=c44b4083-3bb0-49c1-b47d-974e53cbdf3c&acr_values=urn%3amicrosoft%3apolicies%3amfa HTTP/1.1
+Host: login.live.com
+Cookie: uaid=6d802e42cb614855aae0f037f924e54b; MSPRequ=id=N&lt=1734901676&co=1; MSCC=64.23.191.232-US; MSPOK=$uuid-789f58c6-2804-4842-b463-79274056bd75; OParams=11O.DmBnACqD9egECc3z3s*K4Un5bPcFgqDjYquonCZ088rB0cUu52O2sfRCOt1y6o3tQDuwSIlN0AqBL8mrgIO5avJExb4wiJS!kiGlMTzrzvXejTpyRdRHUDEmaunRLb1BNiagz5DJGHA6m*VyTFvjeKI$; MicrosoftApplicationsTelemetryDeviceId=0cf99ba3-a99e-441d-a509-6ee2bffd2e16; ai_session=qndnLUfFJXV3u5g8dkH9vg|1734901680485|1734901680485; MSFPC=GUID=ba5636353d194abca75295de40f5d7ce&HASH=ba56&LV=202412&V=4&LU=1734901686349
+Sec-Ch-Ua: "Chromium";v="131", "Not_A Brand";v="24"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "macOS"
+Accept-Language: en-US,en;q=0.9
+Dnt: 1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Sec-Fetch-Site: none
+Sec-Fetch-Mode: navigate
+Sec-Fetch-User: ?1
+Sec-Fetch-Dest: document
+Accept-Encoding: gzip, deflate, br
+Priority: u=0, i
+Connection: keep-alive
+
